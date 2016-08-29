@@ -13,7 +13,7 @@ Neste blog sempre que possível farei postagens curtas. A ideia é que não fiqu
 
 Normalmente sempre haverá um post falando da existência de uma certa tecnologia e a motivação dela existir. Muitas vezes não precisamos aprender a tecnologia mas acho muito importante saber que ela existe e em um momento de necessidade procurar conhecê-la mais a fundo. E outro(s) post dando mais detalhes sobre a tecnologia, estes sim, se o leitor estiver interessado no assunto pode conferir e do contrário basta pular o assunto.
 
-Fiquem a vontade para contribuir com o blog que está hospedado [no GitHub](https://github.com/flaviochess/flaviochess.github.io).
+Fiquem a vontade para contribuir com o blog que está hospedado <a href="https://github.com/flaviochess/flaviochess.github.io" target="_blank">no GitHub</a>.
 
 Aceito também críticas e sugestões!
 
