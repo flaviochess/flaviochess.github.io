@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2016-07-14 18:00:00 -0300
+date:   2016-07-14 00:00:00 -0300
 categories: none
 ---
 
