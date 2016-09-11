@@ -5,9 +5,9 @@ date:   2016-09-11 00:00:00 -0300
 categories: CSS
 ---
 
-Hoje eu vim trazer uma dica que aprendi e achei muito importante: para deixar um texto maiúsculo, utilize CSS!
+Hoje eu vim trazer uma dica que aprendi e achei muito importante: **para deixar um texto maiúsculo, não escreva em caixa alta, utilize CSS!**
 
-Atualmente, todo desenvolvedor sabe a importância de usar o atributo alt na tag img do HTML. Se você não sabe deveria saber!
+Atualmente, todo desenvolvedor sabe a importância de usar o atributo alt na tag img do HTML. Se você não sabe deveria saber:
 
 >Utilizamos o atributo alt para descrever a imagem em questão com o principal objetivo de tornar nossas páginas mais acessíveis (ou pelo menos este deveria ser o principal motivo) pois deficientes visuais também navegam pela internet porém usando programas ou plugins que leem o conteúdo da página e quando encontra uma imagem ele lê o atributo alt dela para o usuário. 
 Além dos deficientes visuais os robôs dos buscadores como o Google também leem este atributo para auxiliar nas buscas.
